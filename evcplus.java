@@ -1,3 +1,6 @@
+//Abdirahmaan Abdullahi Khaliif
+
+//C6240323
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
