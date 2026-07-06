@@ -1,5 +1,6 @@
 //Abdirahmaan Abdullahi Khaliif
-//c6240323import java.util.ArrayList;
+//c6240323
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
